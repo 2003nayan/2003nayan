@@ -1,5 +1,4 @@
-<h1>Hey there👋</h1>
-<h2>I'm Nayan Katiyara</h2>
+<h1>Hey there👋, I'm Nayan Katiyara</h1>
 
 <p align="left">
   <a href="https://twitter.com/nayankatiyara" target="blank"

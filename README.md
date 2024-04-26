@@ -25,9 +25,9 @@ My Github Stats
 </summary>
 
 <p>
-  &nbsp;<img
+  <img
     align="center"
-    src="https://github-readme-stats.vercel.app/api?username=2003nayan&show_icons=true&locale=en&theme=dark"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=2003nayan&show_icons=true&locale=en&layout=compact&theme=dark"
     alt="2003nayan"
   />
 </p>

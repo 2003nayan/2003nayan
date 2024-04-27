@@ -9,7 +9,7 @@
 </p>
 
 <h4 >
-  A curious geek have some questions - What, Why, When, Who?
+  A curious geek have some questions - What, Why, When, Who, How?
 </h4>
 
 - 🌱 I’m currently learning **Typescript, NextJS from Harkirat's Cohort**

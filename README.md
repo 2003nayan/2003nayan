@@ -22,7 +22,7 @@
 <details>
 My Github Stats
 <p>
-  [![Nayan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=2003nayan&bg_color=0D1117&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true)](https://github.com/2003nayan/github-readme-activity-graph)
+  (https://github-readme-activity-graph.vercel.app/graph?username=2003nayan&bg_color=0D1117&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true)(https://github.com/2003nayan/github-readme-activity-graph)
 </p>
 
 <p>

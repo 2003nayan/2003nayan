@@ -38,7 +38,7 @@ My Github Stats
 <p>
   <img
     align="center"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=2003nayan&theme=dark"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=2003nayan&theme=react"
     alt="2003nayan"
   />
 </p>

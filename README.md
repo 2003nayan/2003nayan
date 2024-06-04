@@ -18,7 +18,7 @@
 - 📫 How to reach me **nayankatiyara03@gmail.com**
 - 📄 Know about my experiences [https://shorturl.at/kmsyW](https://shorturl.at/GAvRe)
 
-<h2>GitHub Stats</h2>
+<h2>## ⚙️ &nbsp;GitHub Analytics</h2>
 <details>
 My Github Stats
 <p>

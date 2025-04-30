@@ -8,6 +8,10 @@
   /></a>
 </p>
 
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=shantanukh&label=Profile%20views&color=0e75b6&style=flat" alt="shantanukh" /> 
+</p>
+
 <h4 >
   A curious geek have some questions - What, Why, When, Who, How?
 </h4>
